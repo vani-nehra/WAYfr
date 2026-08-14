@@ -1,27 +1,29 @@
 # 🌍 WAYfr — Explore Incredible India
 
-WAYfr is a responsive travel discovery website designed to help users explore beautiful destinations across India.
+> A responsive travel discovery website designed to help users explore incredible destinations across India.
 
-The website allows users to browse destinations by category, search for specific places, select a destination, and generate a personalized travel plan.
+## 🔗 Live Demo
 
----
+[🌍 Visit WAYfr](https://vani-nehra.github.io/WAYfr/)
 
-## ✨ Features
 
-- 🏠 Responsive landing page
-- 🔎 Destination search
-- 🏔️ Explore destinations by category
-- 🌊 Beaches, Mountains, Lakes, Deserts & National Parks
-- 📍 Dynamic destination cards
-- ⭐ Destination ratings
-- 🧳 Interactive Travel Planner
-- 💰 Budget and trip-duration selection
-- 🌙 Dark / ☀️ Light theme toggle
-- 📧 Contact section
-- 📱 Responsive design
-- ✨ Smooth animations and hover effects
+## ✨ Overview
+WAYfr is a frontend travel discovery platform that provides an interactive experience for exploring destinations across India.
 
----
+Users can browse destinations by category, search for specific places, select a destination, and generate a personalized travel plan based on their travel preferences.
+
+## 🚀 Features
+- Responsive travel discovery interface
+- Destination search functionality
+- Interactive destination categories
+- Dynamic destination cards
+- Destination ratings
+- Interactive travel planner
+- Budget and trip-duration selection
+- Dark / light theme toggle
+- Contact section
+- Responsive design for different screen sizes
+- Smooth hover effects and animations
 
 ## 🗂️ Destination Categories
 
@@ -33,7 +35,6 @@ WAYfr currently includes:
 - 🌳 National Parks
 - 🌊 Lakes
 
----
 
 ## 🛠️ Technologies Used
 
@@ -44,11 +45,10 @@ WAYfr currently includes:
 - Responsive Web Design
 - Local JavaScript Data
 
----
 
 ## 📁 Project Structure
 
-```text
+
 WAYfr/
 │
 ├── index.html
@@ -78,9 +78,7 @@ WAYfr/
     ├── Naini-lake.jpg
     ├── Chilika-lake.jpg
     └── Pangong.jpg
-```
 
----
 
 ## 🚀 How to Run
 
@@ -90,7 +88,7 @@ WAYfr/
 
 For the best development experience, you can use the Live Server extension in VS Code.
 
----
+
 
 ## 🎯 Project Goal
 
@@ -98,7 +96,7 @@ The goal of WAYfr is to create a visually engaging and interactive frontend expe
 
 The project focuses on responsive design, interactive user experiences, dynamic destination rendering, and simple travel planning functionality.
 
----
+
 
 ## 🔮 Future Improvements
 
@@ -114,14 +112,9 @@ Possible future enhancements include:
 - 💾 Saved trips and favourite destinations
 - ⚙️ Backend integration
 
----
 
 ## 👩‍💻 Author
-
 **Vani Nehra**
-
 Computer Science & Engineering — AIML
-
----
 
 ⭐ If you like this project, consider giving the repository a star!
