@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WAYfr | Explore Incredible India</title>
+    <link rel="stylesheet" href ="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="Wayfricon.png">
+</head>
+<body>
+    <header class ="header">
+        <div class="logo">
+            <img src ="Logo.png" alt="WAYfr logo" class="way-logo">            
+    </div>
+    <nav>
+        <ul class="nav-links">
+            <li><a href = "#">Home</a></li>
+            <li><a href = "#destinations">Explore</a></li>
+            <li><a href = "#contact">Contact</a></li>
+            <li><button class ="theme-btn">🌙</button></li>
+        </ul>
+    </nav>
+    <br>
+    </header>
+    <section class="hero">
+        <br>
+        <h1>Explore . <span>Experience</span> . Enjoy</h1>
+        <h2><strong><i>Discover your next Adventure</i></strong></h2>
+        <br>
+        <p>[Explore breathtaking mountains, relaxing beaches, peaceful lakes, and historic places across India.]</p>
+        <br>
+        <div class="search-bar">
+            <input type="text" placeholder="Search destinations..." id="searchInput">
+            <button id="searchBtn">🔍</button>
+        </div>
+    </section>
+    <br>
+    <div class="Destination-categories" id="destinations">
+        <span><h2>Categories</h2></span>
+        <br>
+        <div class="cards-container">
+
+        <div class="card" data-category="mountains">
+            <h3>Mountains</h3>
+            <p>Explore beautiful mountains and views here.</p>
+        </div>
+        <div class="card" data-category="beaches">
+            <h3>Beaches</h3>
+            <p>Relax on beautiful beaches,enjoy peaceful sunsets and experience the calm of the ocean.</p>
+        </div>
+        <div class="card" data-category="deserts">
+            <h3>Deserts</h3>
+            <p>Discover vast deserts,golden sand dunes,thrilling adventures and unique landscapes.</p>
+        </div>
+        <div class="card" data-category="nationalParks">
+            <h3>NationalParks</h3>
+            <p>Explore dense forests,connect with nature and discover amazing wildlife and greenery.</p>
+        </div>
+        <div class="card" data-category="lakes">
+            <h3>Lakes</h3>
+            <p>Visit peaceful lakes surrounded by nature,enjoy views and create unforgettable memories.</p>
+        </div>
+    </div>
+    </section>
+<div id="destination-container"></div>
+   
+<section class="planner-section">
+
+    <h2> Travel Planner </h2>
+
+    <form id="plannerForm">
+
+    <div class="form-row">
+        <label for="travelStyle">Travel Style</label>
+        <select id="travelStyle" required>
+            <option value="">Select</option>
+            <option>Adventure</option>
+            <option>Relaxation</option>
+            <option>Family</option>
+            <option>Solo</option>
+            <option>Budget</option>
+        </select>
+    </div>
+
+    <div class="form-row">
+        <label for="budget">Budget (₹)</label>
+        <input type="number" id="budget" min="1000" step="500" value="1000" required>
+    </div>
+
+    <div class="form-row">
+        <label for="days">Trip Duration (Days)</label>
+        <input type="number" id="days" min="1" value="1" required>
+    </div>
+
+    <div class="form-row">
+        <label for="category">Destination Type</label>
+        <input type="text" id="category" placeholder="Click a category card" readonly>
+    </div>
+
+    <div class="form-row">
+        <label for="destination">Destination</label>
+        <input type="text" id="destination" placeholder="Click a destination" readonly>
+    </div>
+
+    <button type="submit">Get My Travel Plan</button>
+
+</form>
+    <div id="plannerResult"></div>
+
+</section>    
+<section class="contact-section" id="contact">
+
+    <h2>Get in Touch</h2>
+
+    <p class="contact-intro">
+        Have a question, suggestion, or feedback about WAYfr?
+        We'd love to hear from you.
+    </p>
+
+    <div class="contact-container">
+
+        <div class="contact-card">
+            <h3>📧 Email</h3>
+            <p>wayfr.travel@gmail.com</p>
+        </div>
+
+        <div class="contact-card">
+            <h3>📍 Location</h3>
+            <p>India</p>
+        </div>
+
+        <div class="contact-card">
+            <h3>🌐 Follow WAYfr</h3>
+            <p>Connect with us online</p>
+        </div>
+
+    </div>
+
+</section>
+<script src="script.js"></script>
+
+</body>
+
+</html>

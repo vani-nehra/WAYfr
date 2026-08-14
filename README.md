@@ -1,0 +1,127 @@
+# 🌍 WAYfr — Explore Incredible India
+
+WAYfr is a responsive travel discovery website designed to help users explore beautiful destinations across India.
+
+The website allows users to browse destinations by category, search for specific places, select a destination, and generate a personalized travel plan.
+
+---
+
+## ✨ Features
+
+- 🏠 Responsive landing page
+- 🔎 Destination search
+- 🏔️ Explore destinations by category
+- 🌊 Beaches, Mountains, Lakes, Deserts & National Parks
+- 📍 Dynamic destination cards
+- ⭐ Destination ratings
+- 🧳 Interactive Travel Planner
+- 💰 Budget and trip-duration selection
+- 🌙 Dark / ☀️ Light theme toggle
+- 📧 Contact section
+- 📱 Responsive design
+- ✨ Smooth animations and hover effects
+
+---
+
+## 🗂️ Destination Categories
+
+WAYfr currently includes:
+
+- 🏔️ Mountains
+- 🏖️ Beaches
+- 🏜️ Deserts
+- 🌳 National Parks
+- 🌊 Lakes
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Google Fonts
+- Responsive Web Design
+- Local JavaScript Data
+
+---
+
+## 📁 Project Structure
+
+```text
+WAYfr/
+│
+├── index.html
+├── styles.css
+├── script.js
+├── Logo.png
+├── Wayfricon.png
+├── moun.jpg
+│
+└── Images/
+    ├── Manali.jpg
+    ├── Shimla.webp
+    ├── Ladakh.jfif
+    ├── Auli.jpg
+    ├── BagaBeach.jpg
+    ├── Kovalam-Beach.jpg
+    ├── MArina.jpg
+    ├── Nagaon-Beach-Alibaug.jpg
+    ├── Thar.jpg
+    ├── kutch.jpg
+    ├── Bikaner.jpg
+    ├── Jaisalmer.jpg
+    ├── jim-corbett.jpg
+    ├── Sundarbans.jpg
+    ├── bandipur-forest.jpg
+    ├── Dal-lake.jpg
+    ├── Naini-lake.jpg
+    ├── Chilika-lake.jpg
+    └── Pangong.jpg
+```
+
+---
+
+## 🚀 How to Run
+
+1. Clone or download this repository.
+2. Open the `WAYfr` folder in VS Code.
+3. Open `index.html` in your browser.
+
+For the best development experience, you can use the Live Server extension in VS Code.
+
+---
+
+## 🎯 Project Goal
+
+The goal of WAYfr is to create a visually engaging and interactive frontend experience for discovering travel destinations across India.
+
+The project focuses on responsive design, interactive user experiences, dynamic destination rendering, and simple travel planning functionality.
+
+---
+
+## 🔮 Future Improvements
+
+Possible future enhancements include:
+
+- 🌦️ Weather information
+- ✈️ Flight information
+- 🎉 Events and activities
+- 📍 More destinations
+- 🗺️ Advanced trip planning
+- 🤖 AI-powered travel recommendations
+- 🔐 User accounts and authentication
+- 💾 Saved trips and favourite destinations
+- ⚙️ Backend integration
+
+---
+
+## 👩‍💻 Author
+
+**Vani Nehra**
+
+Computer Science & Engineering — AIML
+
+---
+
+⭐ If you like this project, consider giving the repository a star!
