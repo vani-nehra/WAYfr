@@ -6,7 +6,14 @@
 
 [🌍 Visit WAYfr](https://vani-nehra.github.io/WAYfr/)
 
+### Home Page
+![WAYfr Home](screenshots/home.png)
 
+### Categories
+![WAYfr categories](screenshots/categories.png)
+
+### Contact
+![WAYfr contact](screenshots/contact.png)
 ## ✨ Overview
 WAYfr is a frontend travel discovery platform that provides an interactive experience for exploring destinations across India.
 
@@ -44,40 +51,6 @@ WAYfr currently includes:
 - Google Fonts
 - Responsive Web Design
 - Local JavaScript Data
-
-
-## 📁 Project Structure
-
-
-WAYfr/
-│
-├── index.html
-├── styles.css
-├── script.js
-├── Logo.png
-├── Wayfricon.png
-├── moun.jpg
-│
-└── Images/
-    ├── Manali.jpg
-    ├── Shimla.webp
-    ├── Ladakh.jfif
-    ├── Auli.jpg
-    ├── BagaBeach.jpg
-    ├── Kovalam-Beach.jpg
-    ├── MArina.jpg
-    ├── Nagaon-Beach-Alibaug.jpg
-    ├── Thar.jpg
-    ├── kutch.jpg
-    ├── Bikaner.jpg
-    ├── Jaisalmer.jpg
-    ├── jim-corbett.jpg
-    ├── Sundarbans.jpg
-    ├── bandipur-forest.jpg
-    ├── Dal-lake.jpg
-    ├── Naini-lake.jpg
-    ├── Chilika-lake.jpg
-    └── Pangong.jpg
 
 
 ## 🚀 How to Run
